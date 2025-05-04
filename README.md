@@ -19,6 +19,11 @@ This project is a simple shopping cart implementation using the SimpleKit framew
 - TypeScript - For type-safe development
 - Vite - For fast development and building
 
+## Demo
+![Shopping Cart](main-screen.png)
+![Categories Editing Screen](screenshot.png)
+
+
 ## Getting Started
 
 ### Prerequisites
