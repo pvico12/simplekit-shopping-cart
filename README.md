@@ -20,8 +20,8 @@ This project is a simple shopping cart implementation using the SimpleKit framew
 - Vite - For fast development and building
 
 ## Demo
-![Shopping Cart](main-screen.png)
-![Categories Editing Screen](screenshot.png)
+![Shopping Cart](public/main-screen.png)
+![Categories Editing Screen](public/edit-categories.png)
 
 
 ## Getting Started
